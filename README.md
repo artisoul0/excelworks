@@ -1,3 +1,5 @@
+# Examples of using some methods of sorting, filtering, searhing by index, match, analyzing database in different projects.
+
 ## Excel Work #1
 ![Excel work#1](./img/1.jpg)
 
